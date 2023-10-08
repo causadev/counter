@@ -1,3 +1,3 @@
 # counter
 
-# Simple vanilla javascript counter :)
+- Simple vanilla javascript counter :)
