@@ -19,7 +19,7 @@ function updateCounter(event) {
   }
 
   if (value.textContent > 0) {
-    value.style.color = "green";
+    value.style.color = "#39FF14";
   } else if (value.textContent < 0) {
     value.style.color = "red";
   } else {
